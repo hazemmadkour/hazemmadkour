@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hazemmadkour&repo=node-test)](https://github.com/hazemmadkour/node-test)
+https://simpleicons.org/
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 -->
 
 ![](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
