@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Madkour</h1>
-<h3 align="center">TeamLeader frontend developer</h3>
+<h3 align="center">Software Technical Lead (Frontend)</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemmadkour" alt="hazemmadkour" /></a> </p>
