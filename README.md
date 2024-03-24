@@ -13,9 +13,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://skillicons.dev/icons?i=git,css,cs,html,js,jenkins,jest,react,redux,scss,dotnet,nodejs,postgres" />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hazemmadkour&repo=react-key-shortcut)](https://github.com/hazemmadkour/react-key-shortcut)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazemmadkour&show_icons=true&locale=en" alt="hazemmadkour" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemmadkour&" alt="hazemmadkour" /></p>
